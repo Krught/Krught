@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A passionate fullstack developer from Florida</h3>
+<h3 align="center">A passionate Full Stack Developer from Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krught&label=Profile%20views&color=0e75b6&style=flat" alt="krught" /> </p>
 
-- 🔭 I’m currently working on [dksim](https://github.com/Krught/dksim)
+- 🔭 I’m currently working on a World of Warcraft Wrath Classic [DK Simulator](https://github.com/Krught/dksim)
 
-- 🌱 I’m currently learning **Python, and everything else that interests me**
+- 🌱 I’m currently learning **everything and anything that interests me**
 
-- 💞️ I’m looking to collaborate on **anything interesting... feel free to reach out to me**
+- 💞️ I’m looking to collaborate on **anything interesting, feel free to reach out to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
