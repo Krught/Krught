@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate Full Stack Developer from Florida</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krught&label=Profile%20views&color=0e75b6&style=flat" alt="krught" /> </p>
-
 - 🔭 I’m currently working on a World of Warcraft Wrath Classic [DK Simulator](https://github.com/Krught/dksim)
 
 - 🌱 I’m currently learning **everything and anything that interests me**
