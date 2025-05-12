@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate Full Stack Developer from Florida</h3>
 
-- 🔭 I’m currently working on a World of Warcraft Wrath Classic [DK Simulator](https://github.com/Krught/dksim)
+- 🔭 I’m currently working on vFashify
 
 - 🌱 I’m currently learning **everything and anything that interests me**
 
@@ -11,15 +11,48 @@
 
 
 <h3 align="middle">Languages and Tools:</h3>
-<p align="middle"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40"/><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="icon" width="40" height="40"/><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40"/>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a><a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a><a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="40px" height="40px"></a><a href="https://plotly.com/dash/" title="dash"><img src="https://dash.gallery/Manager/portals_data/default/logo_67e0eec2-59a7-11ea-9fd8-0242ac110072.png" alt="dash" width="120px" height="40px"></a>
+<p align="middle">
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+  </a>
+
+  <!-- Python -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40"/>
+
+  <!-- JavaScript -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40"/>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 
-<p float="left" align="middle">
-<img align="center" src="https://raw.githubusercontent.com/krught/gituhbstatsphoto/master/generated/overview.svg" alt="krught" width="350"  />
-<img align="center" src="https://raw.githubusercontent.com/krught/gituhbstatsphoto/master/generated/languages.svg" alt="krught" width="350"  />
-</p>
 
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krught&" alt="krught" /></p>
 
